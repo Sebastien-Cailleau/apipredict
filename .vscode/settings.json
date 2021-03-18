@@ -1,0 +1,5 @@
+{
+    "python.linting.flake8Enabled": true, 
+    "python.linting.enabled": true,
+    "python.pythonPath": "/home/toorop/.virtualenvs/predict_back-tWTd-8oJ/bin/python"
+}
