@@ -8,6 +8,7 @@ loguru = "*"
 fastapi = {extras = ["all"], version = "*"}
 mysql-connector = "*"
 python-dotenv = "*"
+pymysql = "*"
 
 [dev-packages]
 autopep8 = "*"
